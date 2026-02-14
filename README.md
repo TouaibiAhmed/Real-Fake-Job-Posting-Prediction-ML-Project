@@ -3,10 +3,6 @@
 ## 🎯 Project Description
 Machine Learning system to detect fraudulent job postings using NLP and classification algorithms. Built with Django REST API, MLflow tracking, and Docker deployment.
 
-## 👥 Team Members
-- **Member 1**: EDA & Data Preprocessing
-- **Member 2**: Model Training & MLflow Integration
-- **Member 3**: Django API & Deployment
 
 ## 🛠️ Tech Stack
 - **ML**: Scikit-learn, Transformers, BERT, LightGBM
@@ -90,3 +86,4 @@ docker run -p 8000:8000 fake-job-detector
 
 ## 📝 License
 MIT License
+
