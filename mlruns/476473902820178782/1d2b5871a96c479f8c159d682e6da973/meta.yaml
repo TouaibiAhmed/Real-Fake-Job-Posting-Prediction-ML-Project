@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Ahmed/Desktop/Touaibi Projects/Real-Fake-Job-Posting-Prediction-ML-Project/notebooks/../mlruns/476473902820178782/1d2b5871a96c479f8c159d682e6da973/artifacts
+end_time: 1771110081373
+entry_point_name: ''
+experiment_id: '476473902820178782'
+lifecycle_stage: active
+run_id: 1d2b5871a96c479f8c159d682e6da973
+run_name: LightGBM_Hybrid_Optimized
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771110018908
+status: 3
+tags: []
+user_id: Ahmed

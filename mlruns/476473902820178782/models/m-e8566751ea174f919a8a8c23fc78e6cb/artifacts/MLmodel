@@ -1,0 +1,21 @@
+artifact_path: file:c:/Users/Ahmed/Desktop/Touaibi Projects/Real-Fake-Job-Posting-Prediction-ML-Project/notebooks/../mlruns/476473902820178782/models/m-e8566751ea174f919a8a8c23fc78e6cb/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.lgb
+    lgb_version: 4.6.0
+    model_class: lightgbm.basic.Booster
+  python_function:
+    data: model.lgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.13.11
+mlflow_version: 3.3.2
+model_id: m-e8566751ea174f919a8a8c23fc78e6cb
+model_size_bytes: 2263089
+model_uuid: m-e8566751ea174f919a8a8c23fc78e6cb
+prompts: null
+run_id: 1d2b5871a96c479f8c159d682e6da973
+utc_time_created: '2026-02-14 23:01:16.081578'

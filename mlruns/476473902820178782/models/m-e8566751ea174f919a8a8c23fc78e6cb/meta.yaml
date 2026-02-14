@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/Ahmed/Desktop/Touaibi Projects/Real-Fake-Job-Posting-Prediction-ML-Project/notebooks/../mlruns/476473902820178782/models/m-e8566751ea174f919a8a8c23fc78e6cb/artifacts
+creation_timestamp: 1771110075963
+experiment_id: '476473902820178782'
+last_updated_timestamp: 1771110081309
+model_id: m-e8566751ea174f919a8a8c23fc78e6cb
+model_type: null
+name: model
+source_run_id: 1d2b5871a96c479f8c159d682e6da973
+status: 2
+status_message: null

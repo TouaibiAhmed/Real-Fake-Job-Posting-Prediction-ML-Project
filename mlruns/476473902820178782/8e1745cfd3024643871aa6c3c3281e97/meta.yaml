@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Ahmed/Desktop/Touaibi Projects/Real-Fake-Job-Posting-Prediction-ML-Project/notebooks/../mlruns/476473902820178782/8e1745cfd3024643871aa6c3c3281e97/artifacts
+end_time: 1771109788472
+entry_point_name: ''
+experiment_id: '476473902820178782'
+lifecycle_stage: active
+run_id: 8e1745cfd3024643871aa6c3c3281e97
+run_name: Logistic_Regression_TF-IDF
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771109780351
+status: 3
+tags: []
+user_id: Ahmed

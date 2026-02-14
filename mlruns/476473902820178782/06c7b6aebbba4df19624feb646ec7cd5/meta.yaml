@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Ahmed/Desktop/Touaibi Projects/Real-Fake-Job-Posting-Prediction-ML-Project/notebooks/../mlruns/476473902820178782/06c7b6aebbba4df19624feb646ec7cd5/artifacts
+end_time: 1771110521481
+entry_point_name: ''
+experiment_id: '476473902820178782'
+lifecycle_stage: active
+run_id: 06c7b6aebbba4df19624feb646ec7cd5
+run_name: XGBoost_Hybrid
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771110360448
+status: 4
+tags: []
+user_id: Ahmed

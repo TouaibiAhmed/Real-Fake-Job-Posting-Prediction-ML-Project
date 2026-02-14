@@ -1,0 +1,22 @@
+artifact_path: file:c:/Users/Ahmed/Desktop/Touaibi Projects/Real-Fake-Job-Posting-Prediction-ML-Project/notebooks/../mlruns/476473902820178782/models/m-836a43cf15a3434881d70be32838759b/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.11
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.1.2
+mlflow_version: 3.3.2
+model_id: m-836a43cf15a3434881d70be32838759b
+model_size_bytes: 899250
+model_uuid: m-836a43cf15a3434881d70be32838759b
+prompts: null
+run_id: 01a23ca98ed94e89b93f429de2b474e3
+utc_time_created: '2026-02-14 23:13:46.267059'
