@@ -10,7 +10,8 @@ transformers==4.36.2
 datasets==2.16.1
 
 # ML Tools
-mlflow==2.9.2
+# Use MLflow 3.x to match local environment and include server deps
+mlflow==3.9.0
 lightgbm==4.2.0
 xgboost==2.0.3
 imbalanced-learn==0.12.0
@@ -43,3 +44,14 @@ psycopg2-binary==2.9.9
 # Jupyter
 jupyter==1.0.0
 ipykernel==6.28.0
+
+# MLflow server / runtime dependencies
+uvicorn==0.40.0
+fastapi==0.129.0
+waitress==3.0.2
+docker==7.1.0
+databricks-sdk==0.88.0
+opentelemetry-api==1.39.1
+opentelemetry-sdk==1.39.1
+skops==0.13.0
+prettytable==3.17.0
