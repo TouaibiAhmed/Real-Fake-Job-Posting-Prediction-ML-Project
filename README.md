@@ -51,10 +51,10 @@ conda activate afr_startup_ml
 #### Option B: Create environment manually
 ```bash
 # Create conda environment with Python 3.13
-conda create -n afr_startup_ml python=3.13 -y
+conda create -n *envname*l python=3.13 -y
 
 # Activate environment
-conda activate afr_startup_ml
+conda activate *envname*
 
 # Install dependencies
 pip install -r requirements.txt
@@ -62,8 +62,8 @@ pip install -r requirements.txt
 
 **Windows users**: Use conda prompt or PowerShell:
 ```powershell
-conda create -n afr_startup_ml python=3.13 -y
-conda activate afr_startup_ml
+conda create -n*envname* python=3.13 -y
+conda activate *envname*
 pip install -r requirements.txt
 ```
 
@@ -451,4 +451,5 @@ docker run -p 8000:8000 fake-job-detector
 
 ## 📝 License
 MIT License
+
 
